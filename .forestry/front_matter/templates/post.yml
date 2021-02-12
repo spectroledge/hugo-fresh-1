@@ -7,5 +7,10 @@ fields:
   config:
     required: false
   label: Post
+- name: text
+  type: text
+  config:
+    required: false
+  label: text
 pages:
 - content/Ciccia.md
